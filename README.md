@@ -4,11 +4,11 @@
 This is a 3D obstacle course game developed using Unity. The player controls a cube that must navigate through various obstacles without hitting them. The game tracks the number of times the player bumps into obstacles.
 
 ## Screenshots
-![Gameplay GIF](assets/gameplay.gif)
+![Gameplay GIF](Assets/gameplay.gif)
 
-![Obstacle Course View](assets/obstacle_course.png)
+![Obstacle Course View](Assets/obstacle_course.png)
 
-![Player Movement](assets/player_movement.png)
+![Player Movement](Assets/player_movement.png)
 
 ## Game Structure
 The project is organized into the following main directories:
